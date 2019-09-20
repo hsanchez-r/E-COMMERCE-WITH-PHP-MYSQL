@@ -1,0 +1,108 @@
+
+.ul1    {
+      list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+    
+}
+
+.home1  {
+    float: left;
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #11b2a5;
+}
+
+.active {
+  background-color: #11b2a5;
+  float:right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active1    {
+      background-color: grey;
+  
+  
+  color: white;
+  text-align: center;
+  
+  text-decoration: none;
+}
+
+.aligncenter   {
+    text-align: center;
+}
+
+.rage2youtube   {
+    float: left;
+}
+
+.crashyoutube   {         
+          margin-left: 115px;
+          margin-right: 100px;
+}
+
+.borderlandsyoutube {
+    float: right;
+    
+}
+
+
+
+.footer2    {
+     list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkgrey;
+    color: #333;
+}
+
+.home2  {
+  
+  text-align: center;
+  padding: 280px;
+}
+.coverArt{
+    height:400px;
+    width: 300px;
+}
+.gameLink{
+    text-align: center;
+}
+.RD{
+    text-align: center;
+}
+.upcomingimages{
+    text-align: center;
+}
+.wrapper{
+    background-image: url("../img/bodyBack4.jpeg");
+}
+p{
+    color:#e20f24;
+    font-size: 20px;
+    text-decoration: #333;
+    text-shadow: 1.25px 1.25px black;
+}
+td{
+    color:white;
+}
+table a{
+    color: lightblue;
+}
+table th{
+    color: yellow;
+}
